@@ -1,2 +1,3 @@
 # barseq-matlab-allen
-BARseq 
+This is archived software under development/construction. 
+DO NOT USE 
